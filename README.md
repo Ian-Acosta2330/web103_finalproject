@@ -1,4 +1,4 @@
-# BeatBuds
+# beatbuds
 
 CodePath WEB103 Final Project
 
