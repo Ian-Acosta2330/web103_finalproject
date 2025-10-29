@@ -1,4 +1,4 @@
-# Harmony
+# BeatBuds
 
 CodePath WEB103 Final Project
 
