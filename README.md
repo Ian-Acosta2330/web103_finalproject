@@ -1,5 +1,4 @@
-# beatbuds
-
+# BeatBuds
 CodePath WEB103 Final Project
 
 Designed and developed by: [Justin Tamay, Ian Acosta, Gael Argumedo]
