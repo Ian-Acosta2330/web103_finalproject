@@ -2,7 +2,7 @@
 
 Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
 
-## Create the List of Tables
+## List of Tables
 
 - Users Table
 - Spotify Authentication Table  
@@ -12,8 +12,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - Likes Table   
 - Comments Table      
 - Listening History Table
+- Communities Table
+- Community Members Table
 
-
-## Add the Entity Relationship Diagram
-
-<img width="1341" height="1308" alt="Screenshot 2025-11-04 004104" src="https://github.com/user-attachments/assets/d4f0ac0a-8b6d-49d1-8f67-cdc6cd00e734" />
+## Entity Relationship Diagram
+<img width="1993" height="1377" alt="Screenshot 2025-11-04 220504" src="https://github.com/user-attachments/assets/78bf4389-cbe7-4ee0-87cd-fbd5bc30febf" />
