@@ -4,14 +4,16 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+- Users Table
+- Spotify Authentication Table  
+- Posts Table   
+- Follows Table  
+- Tracks Table  
+- Likes Table   
+- Comments Table      
+- Listening History Table
+
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
-
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+<img width="1341" height="1308" alt="Screenshot 2025-11-04 004104" src="https://github.com/user-attachments/assets/d4f0ac0a-8b6d-49d1-8f67-cdc6cd00e734" />
