@@ -22,20 +22,20 @@ You will need to reference the GitHub Project Management guide in the course por
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[The project setup and collaboration went smoothly during this unit. We were able to complete various setup features like navigation, login style, and profile, among others.]
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[Some challenges we faced include getting our css set up, and a few merge conflicts here and there.]
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[We did not finish ALL of the tasks for the sprint plan. We plan to prioritize the remaining tasks mostly for functionality, such as the for you page.]
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[The main user story we can consider at risk could be the web player, since it requires the most setup. We still aim to do it, however.]
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[The additional support we may need is learning about authentication in the next unit.]
