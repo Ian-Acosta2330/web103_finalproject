@@ -23,6 +23,11 @@ Backend: Express.js, Node.js, Supabase, PostgresSQL
 
 ## Features
 
+### Profile 
+
+User can view their profile which has some tracks, their follow and followers, and some description about them.
+
+![alt text](<Kapture 2025-11-11 at 22.44.34.gif>)
 ### Music-based Social Posting
 
 Users can make posts about music, such as “mood” posts including a song, track review posts, or album/playlist sharing posts. These posts can include other components such as text or a user’s mood. The users can also edit their posts to change the song, album, playlist, or text.
