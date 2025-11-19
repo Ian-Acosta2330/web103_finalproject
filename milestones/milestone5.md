@@ -91,20 +91,20 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[ Our group collaborated effectively and maintained clear communication throughout the project. We successfully divided tasks, which helped us stay organized.]
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[One of the main challenges was integrating different parts of the project—especially when merging frontend components with backend logic. We were also unable to complete all of the features we set out to implement but we did enable all the required ones in our project.]
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[Working with eachother to complete this project and seeing it come together was something we are very proud of. We all had the idea to make a music based app and we were able to do so. ]
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[We feel we've all grown significantly though this course, from technical skills to collaborating, we have all learned skills that will help us in our future endeavors.]
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+[We plan on learning more and building projects that both help us obtain new skills and are based in something that we enjoy, just like how BeatBuds is based in our shared interest of music.]
