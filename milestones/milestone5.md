@@ -82,6 +82,8 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 ![ScreenRecording2025-11-19010115-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/497e8b12-b829-4dd8-a849-9fa4faa68ed1)
 ![ScreenRecording2025-11-19010423-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d4fc5460-d1a9-4cef-ba64-2b7045f0b658)
 ![ScreenRecording2025-11-19010423-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8c8ca02f-fcd7-4d44-b212-8ba874ec23e1)
+![usersearchgif](https://github.com/user-attachments/assets/595f6811-1ceb-4fd6-b240-3b6df67ff5f5)
+![ScreenRecording2025-11-19010709-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e4eb9219-5d0b-49da-afaf-5302c4712a11)
 
 
 ## Reflection
