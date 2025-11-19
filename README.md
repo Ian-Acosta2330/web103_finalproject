@@ -3,7 +3,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: [Justin Tamay, Ian Acosta, Gael Argumedo]
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://beatbuds.onrender.com
 
 ## About
 
