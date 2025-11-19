@@ -23,24 +23,25 @@ Backend: Express.js, Node.js, Supabase, PostgresSQL
 
 ## Features
 
-### Profile 
+### Profile ✅
 
 User can view their profile which has some tracks, their follow and followers, and some description about them.
 
 ![alt text](<Kapture 2025-11-11 at 22.44.34.gif>)
-### Music-based Social Posting
+### Music-based Social Posting ✅
 
 Users can make posts about music, such as “mood” posts including a song, track review posts, or album/playlist sharing posts. These posts can include other components such as text or a user’s mood. The users can also edit their posts to change the song, album, playlist, or text.
 
-[gif goes here]
+![ScreenRecording2025-11-19010423-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9ead0fbc-53ce-4543-8e10-f072f34697da)
 
-### Feed Browsing
+
+### Feed Browsing 
 
 The user of our application can browse through posts of different types. These posts may include track review posts, moods, and song posts where users can listen to their friend’s music with the spotify web player. Of course, the user can like, repost, comment, and more on these posts.
 
 [gif goes here]
 
-### Integrate Profiile with Spotify OAuth
+### Integrate Profiile with Spotify OAuth ✅
 
 We allow users to connect their account with their Spotify account, and then we will be able to identify key parts of their data such as top tracks, listening habits, etc. This information will be integrated with the user’s profile, so that users can view each other’s liked music tracks, albums, genres, etc.
 
@@ -48,9 +49,10 @@ We allow users to connect their account with their Spotify account, and then we 
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
-### Profile Browsing
+### Profile Browsing ✅
 
 Users can view the profiles of other users to see their likes, comments, music preferences, Spotify music habits, etc. The users can save the tracks to their own Spotify account if they want to as well.
+![usersearchgif](https://github.com/user-attachments/assets/99736fb9-9303-45c2-81f9-43af6b34f042)
 
 [gif goes here]
 
